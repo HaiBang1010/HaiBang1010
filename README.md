@@ -2,8 +2,9 @@
 
 <div align="center">
 
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=250&section=header&text=Software%20Engineer&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Web3%20%7C%20Blockchain%20%7C%20Full-stack%20Developer&descAlignY=55&descAlign=50)
 
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Software%20Engineer&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Blockchain%20%7C%20Frontend%20Developer&descAlignY=55&descAlign=50)
+  
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tphbang/)
   [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:tphbang.dev@gmail.com)
 
@@ -14,10 +15,10 @@
 ### 👨‍💻 About Me
 
 - 🎓 I'm a final-year student at **University of Information Technology (UIT)** with a **GPA of 8.69/10**.
-- 🔭 I’m currently working on **Account Abstraction (ERC-4337)** applied in Charity NFT Marketplaces.
-- 🌱 I’m currently learning **Advanced Solidity Patterns** and **System Design**.
-- 💡 I specialize in building **Gasless** applications to bridge the gap between Web2 and Web3.
-- 👯 I’m looking to collaborate on open-source **Blockchain** projects.
+- 🔭 I’m currently developing interactive UIs with **React/Next.js** and **TailwindCSS**.
+- 🌱 I’m currently learning **Solidity Patterns**, **React Patterns**, **Web Performance**, and **System Design**.
+- ⛓️ I also write secure **Smart Contracts (Solidity)** to ensure seamless integration.
+- 👯 I’m looking to collaborate on **Frontend-heavy** projects and complex API integrations.
 
 ---
 
@@ -50,23 +51,21 @@
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
+  <br>**Blockchain & Smart Contracts**<br>
+  <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hardhat-YYY?style=for-the-badge&logo=hardhat&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge&logo=openzeppelin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ethers.js-233056?style=for-the-badge&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white" />
+
 </div>
 
 ---
 
-### ⚡ GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haibang1010&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="haibang1010's github stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haibang1010&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
----
 
 ### 🚀 Featured Projects
 
 | **Project** | **Description** | **Tech Stack** |
 | :--- | :--- | :--- |
-| **Charity NFT Marketplace** | 🎓 Thesis project. A decentralized fundraising platform using **ERC-4337 (AA)** to sponsor gas fees for users. | NextJS, Solidity, Web3Auth, PostgreSQL |
+| **Charity NFT Marketplace** | 🎓 Thesis project. A decentralized fundraising platform using ERC-4337 (AA) to sponsor gas fees for users. | NextJS, Solidity, Web3Auth, PostgreSQL |
 | **ChatChit** | 💬 A real-time social media platform with messaging, video calls, and interactive feed. | NextJS, .NET Core, SignalR, Docker |
