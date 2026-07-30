@@ -3,7 +3,7 @@
 <div align="center">
 
 
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Software%20Engineer&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Blockchain%20%7C%20Frontend%20Developer&descAlignY=55&descAlign=50)
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Software%20Engineer&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20Frontend%20Developer&descAlignY=55&descAlign=50)
   
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tphbang/)
   [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:tphbang.dev@gmail.com)
