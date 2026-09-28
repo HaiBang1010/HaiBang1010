@@ -106,5 +106,6 @@
 
 | **Project** | **Description** | **Tech Stack** |
 | :--- | :--- | :--- |
-| **Charity NFT Marketplace** | 🎓 Thesis project. A decentralized fundraising platform using ERC-4337 (AA) to sponsor gas fees for users. | NextJS, Solidity, Web3Auth, PostgreSQL |
-| **ChatChit** | 💬 A real-time social media platform with messaging, video calls, and interactive feed. | NextJS, .NET Core, SignalR, Docker |
+| **GuB E-Commerce** <br> [Repo](https://github.com/HaiBang1010/GuB-ECommerce) · [Demo](https://gu-b-e.vercel.app) | 🛒 Full-stack e-commerce (storefront + admin dashboard) with Stripe checkout, full-text search, EN/VI i18n and SEO. Modular-monolith backend with multi-schema PostgreSQL. | Next.js 15, NestJS, Stripe, Supabase |
+| **Beng Social Media** <br> [Repo](https://github.com/Beng-SocialMedia) · [Demo](https://social-media-blush-theta.vercel.app) | 💬 Instagram-style platform with real-time chat (1-1 & group), audio/video calls, and Stories with music stickers. 50+ REST APIs documented via Swagger. | React, Node.js, Prisma, Socket.io, LiveKit |
+| **Charity NFT Marketplace** <br> [Repo](https://github.com/ArtChain-NFT) | 🎓 Thesis project. Decentralized NFT fundraising using ERC-4337 (Account Abstraction) for gasless, keyless onboarding via Google/Facebook login. | Next.js, Solidity, Web3Auth, PostgreSQL |
