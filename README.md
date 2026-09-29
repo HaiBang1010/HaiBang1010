@@ -14,11 +14,12 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 I'm a final-year student at **University of Information Technology (UIT)** with a **GPA of 8.69/10**.
-- 🔭 I’m currently developing interactive UIs with **React/Next.js** and **TailwindCSS**.
-- 🌱 I’m currently learning **Solidity Patterns**, **React Patterns**, **Web Performance**, and **System Design**.
-- ⛓️ I also write secure **Smart Contracts (Solidity)** to ensure seamless integration.
-- 👯 I’m looking to collaborate on **Frontend-heavy** projects and interesting project.
+- 🎓 Graduated from **University of Information Technology (UIT)** with a **GPA of 8.69/10**.
+- 💼 Currently working as a **Fullstack Developer**, building end-to-end web applications.
+- 🔭 I build interactive UIs with **React/Next.js** and **TailwindCSS**, and develop scalable backend services and APIs.
+- ⛓️ I also write secure **Smart Contracts (Solidity)** and integrate them seamlessly with web applications.
+- 🌱 I’m currently diving deeper into **System Design**, **Web Performance**, **React Patterns**, and **Solidity Patterns**.
+- 👯 I’m open to collaborating on **Fullstack**, **Web3**, and other interesting projects.
 
 ---
 
@@ -55,8 +56,8 @@
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   </a>
   <br>**Backend & Database**<br>
-  <a href="https://dotnet.microsoft.com/" target="_blank">
-    <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <a href="https://nestjs.com/" target="_blank">
+    <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
   </a>
   <a href="https://nodejs.org/" target="_blank">
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
